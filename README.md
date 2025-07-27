@@ -18,3 +18,5 @@ https://arxiv.org/abs/2502.18924
 https://sditdemo.github.io/sditdemo/
 
 ### 🖼 Output
+
+<img width="1518" height="955" alt="Image" src="https://github.com/user-attachments/assets/d0dfd37a-b594-40dd-bfa2-c146737fad6d" />
